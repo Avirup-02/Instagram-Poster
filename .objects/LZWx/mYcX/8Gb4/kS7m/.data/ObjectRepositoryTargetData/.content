@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GHBshbXw00qjRbXueh96wA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.instagram.com/accounts/onetap/?next=%2F&amp;hl=en" CVScreenId="f495307a-5bb2-41f8-b9f7-629902090850" CvTextArea="105, 840, 70, 22" CvTextArgument="Create" CvType="Text" DesignTimeRectangle="107, 835, 69, 30" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Create' tag='SPAN' type='' class='x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ft' check:innerText='Create' /&gt;" Guid="1f9b8a10-849b-480b-a676-994020be543e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Instagram' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3752fd65dba1ea3ce4f7bdd25fe0bb40.png" xmlns="">0-kdV1zLVB0i6XfsqTpI0Hw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
